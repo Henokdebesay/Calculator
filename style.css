@@ -24,7 +24,7 @@
     padding: 10px;
     width: 350px;
     height: 480px;
-    background-color: burlywood;
+    background-color: #DFA153;
     border: 1px white solid;
     border-radius: 10px;
     align-content: center;
@@ -63,4 +63,9 @@ input{
     height: 60px;
     box-shadow: -5px -5px 10px white;
 
+}
+
+.AC, .DE, .percent, .divide, .multi, .sub, .add, .equal, .period{
+    color: rgb(0, 255, 174);
+    font-weight: bold;
 }
